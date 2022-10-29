@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
-- Desctiption
-- Installation
-- Technology
-- Usage
-- How to contribute
-- License
+- [Description](#Description)
+- [Installation](#installation)
+- [Technologies](#technologies)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+- [Questions](#questions)
 
 ## Description
 
@@ -32,7 +33,7 @@ After clonning the the repository, the user needs to install dependencies by usi
 Use the deployed URL to access the deployed applicaton. Type any note or code snippet in the editor. The content will be saved in the IndexedDB. When reopenning the text editor after closing it, the conent in the text editor will be retrieved from the IndexedDB. When the install button is clicked, the web application will be downloaded as an icon in the desktop. This applicaton will work off line.
 
 
-## How to contribute
+## Contribution
 
 Please see the contributor guidance in the link.
 [Contributor-Covenant](https://www.contributor-covenant.org)
@@ -60,5 +61,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Quesions
+
+Please contact the author at 
+- email: [mesky@gmail.com]
+- GitHub profile: [https://github.com/meskyA]
+
 
 
