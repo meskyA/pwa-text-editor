@@ -6,8 +6,8 @@
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [Usage](#usage)
-- [Images & links](#images/links)
 - [Contribution](#contribution)
+- [Images & links](#images/links)
 - [License](#license)
 - [Questions](#questions)
 
@@ -39,6 +39,17 @@ Use the deployed URL to access the deployed applicaton. Type any note or code sn
 
 Please see the contributor guidance in the link.
 [Contributor-Covenant](https://www.contributor-covenant.org)
+
+## Images and links
+
+[Screen-Shot](Assets/idb-storage-png.png)
+[Screen-Shot](Assets/installed-app.png)
+[Screen-Shot](Assets/localstorage-screen-shot.png)
+[Screen-Shot](Assets/manifest-screen-shot.png)
+[Screen-Shot](Assets/service-workers-screen-shot.png)
+
+[Heroku link](https://my-text-editor-app.herokuapp.com/)
+[GitHub](https://github.com/meskyA/pwa-text-editor)
 
 ## License
 
