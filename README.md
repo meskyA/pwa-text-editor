@@ -42,14 +42,14 @@ Please see the contributor guidance in the link.
 
 ## Images and links
 
-[Screen-Shot](Assets/idb-storage-png.png)
-[Screen-Shot](Assets/installed-app.png)
-[Screen-Shot](Assets/localstorage-screen-shot.png)
-[Screen-Shot](Assets/manifest-screen-shot.png)
-[Screen-Shot](Assets/service-workers-screen-shot.png)
+- [Screen-Shot](Assets/idb-storage-png.png)
+- [Screen-Shot](Assets/installed-app.png)
+- [Screen-Shot](Assets/localstorage-screen-shot.png)
+- [Screen-Shot](Assets/manifest-screen-shot.png)
+- [Screen-Shot](Assets/service-workers-screen-shot.png)
 
-[Heroku link](https://my-text-editor-app.herokuapp.com/)
-[GitHub](https://github.com/meskyA/pwa-text-editor)
+- [Heroku link](https://my-text-editor-app.herokuapp.com/)
+- [GitHub](https://github.com/meskyA/pwa-text-editor)
 
 ## License
 
